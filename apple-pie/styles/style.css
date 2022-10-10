@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
+  margin: 0;
 }
 
 header {
@@ -36,12 +37,14 @@ h1 {
 h2 {
   text-align: left;
   font-size: 18px;
+  margin: 10px 0;
 }
 
 img {
   width: 35vw;
   position: center;
   text-align: center;
+  margin: 5px 0;
 }
 
 div {
